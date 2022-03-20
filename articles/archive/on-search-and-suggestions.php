@@ -1,4 +1,5 @@
-<?php require('../components/header.php'); ?>
+<?php require('../../components/header.php'); ?>
+<?php require('../../components/archive-header.php'); ?>
 
 <h1>On Search &amp; Suggestions</h1>
 <p>In the last few months, my work has been primarily focused on web-related projects with a similar (often identical) tech stack.</p>
@@ -88,4 +89,4 @@
 <p>[^2]: <a href="https://en.wikipedia.org/wiki/GitHub">https://en.wikipedia.org/wiki/GitHub</a></p>
 
 
-<?php require('../components/footer.php'); ?>
+<?php require('../../components/footer.php'); ?>

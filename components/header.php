@@ -19,8 +19,8 @@
 			<div id="navbar" class="flex-sb">
 			   <div class="flex flex-row align-c justify-c">
 					<a href="https://tilde.club/~athena/">~athena</a>
-					<a href="https://tilde.club/~athena/articles.php">Articles</a>
-					<a href="https://tilde.club/~athena/about.php">About</a>
+					<a href="https://tilde.club/~athena/articles.php">articles</a>
+					<a href="https://tilde.club/~athena/about.php">whoami</a>
 				</div>
 				<div class="flex flex-row align-c justify-c">
 					<a href="https://github.com/Infinium8" rel="noreferrer noopener nofollow" target="_blank">GitHub</a>

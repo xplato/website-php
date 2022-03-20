@@ -21,8 +21,10 @@ const colors = [
 ];
 
 const removeAllColors = () => {
+	const body = document.querySelector('body');
+
 	colors.forEach(color => {
-		document.querySelector('body').classList.remove(color);
+		if (body.classList.contains(color)) body.classList.remove(color);
 	});
 }
 
@@ -43,9 +45,10 @@ const main = () => {
 	// Let's start by checking if the user has set
 	// a specific theme color. If so, set the body
 	// class right away.
-	const savedColor = localStorage.getItem('theme-color');
-	const color = savedColor || 'hacker-green';
+	const color = localStorage.getItem('theme-color') || 'hacker-green';
 	setThemeColor(color);
+
+	// Set the value of the <select> element
 	document.querySelector('.theme-color-select').value = color;
 
 }

@@ -1,16 +1,16 @@
 :root {
-	--accent: var(--cyan-500);
-	--accent-hover: var(--cyan-600);
-	--accent-50: var(--cyan-50);
-	--accent-100: var(--cyan-100);
-	--accent-200: var(--cyan-200);
-	--accent-300: var(--cyan-300);
-	--accent-400: var(--cyan-400);
-	--accent-500: var(--cyan-500);
-	--accent-600: var(--cyan-600);
-	--accent-700: var(--cyan-700);
-	--accent-800: var(--cyan-800);
-	--accent-900: var(--cyan-900);
+	--accent-50: var(--green-50);
+	--accent-100: var(--green-100);
+	--accent-200: var(--green-200);
+	--accent-300: #00ff00;
+	--accent-400: #69ff55;
+	--accent-500: #51e74c;
+	--accent-600: #008000;
+	--accent-700: var(--green-700);
+	--accent-800: var(--green-800);
+	--accent-900: var(--green-900);
+
+
 	--rose-50: #fff1f2;
 	--rose-100: #ffe4e6;
 	--rose-200: #fecdd3;
@@ -240,6 +240,7 @@ body.hacker-green {
 	--accent-400: #69ff55 !important;
 	--accent-500: #51e74c !important;
 	--accent-600: #008000 !important;
+	--accent-800: var(--green-800) !important;
 }
 
 body.white {

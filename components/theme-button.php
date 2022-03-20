@@ -1,8 +1,7 @@
 <div class="flex align-c justify-c flex-row mt-0-5r">
 	<p class="mb-0 lh-1 fs-sm mt-0 mr-0-25r">Theme color:</p>
 	<select class="theme-color-select">
-		<option value="">Change theme color</option>
-		<option value="hacker-green">Hacker Green</option>
+		<option value="hacker-green">Hacker</option>
 		<option value="white">White</option>
 		<option value="rose">Rose</option>
 		<option value="pink">Pink</option>
