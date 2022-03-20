@@ -11,6 +11,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 		<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 		<link rel="stylesheet" href="https://tilde.club/~athena/assets/css/jupiterui.css">
+		<link rel="stylesheet" href="https://tilde.club/~athena/assets/css/color.css">
 		<link rel="stylesheet" href="https://tilde.club/~athena/assets/css/style.css">
 	</head>
 	<body>
